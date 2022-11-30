@@ -1,0 +1,89 @@
+header
+{background:#bbbbbb;
+padding:20px 0;
+}
+
+.caixa {
+  position: relative;
+  width:1200px;
+  margin: 0 auto;
+}
+
+nav
+{position:absolute;
+top:110px;
+right:0}
+
+nav li
+{display: inline;
+margin: 0 0 0 15px}
+
+nav a
+{ text-transform:uppercase;
+color:#000000;
+font-weight:bold;
+font-size: 22px;
+text-decoration: none}
+
+nav a:hover {
+color: #848c94;
+#text-decoration: underline;#
+}
+
+em strong
+{font-weight:bold;
+color: red
+}
+
+#Barbearia
+{ width: 80%}
+
+.principal
+{text-align:center;
+background:white;
+padding:30px;
+}
+
+.textobase
+{box-sizing: border-box;
+border-color: #000000;
+border-width: 3px;
+border-style:solid;}
+
+.Beneficios
+{text-align:center;
+background:#FFFFFF}
+
+h2
+{font-size: 26px;
+padding:30px;
+font-weight:bold}
+
+p
+{font-size: 22px;
+padding:10px;
+text-align: center}
+
+h3
+{font-size: 26px;
+padding:30px;
+font-weight:bold}
+
+
+.listabeneficios
+{ display:inline-block;
+vertical-align:top;
+width:20%;
+margin-right:15%;
+padding:20px}
+
+.itens
+{text-align: left;
+font-style: italic;
+font-size: 25px;
+padding:10px
+}
+
+.imagembeneficios
+{width:50%}
+
