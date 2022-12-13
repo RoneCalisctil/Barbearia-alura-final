@@ -1,0 +1,65 @@
+header
+{background:#bbbbbb;
+padding:20px 0;
+}
+
+.caixa {
+  position: relative;
+  width:940px;
+  margin: 0 auto;
+}
+
+nav
+{position:absolute;
+top:110px;
+right:0}
+
+nav li
+{display: inline;
+margin: 0 0 0 15px}
+
+nav a
+{ text-transform:uppercase;
+color:#000000;
+font-weight:bold;
+font-size: 22px;
+text-decoration: none}
+
+nav a:hover {
+color: #848c94;
+#text-decoration: underline;#
+}
+
+
+
+main{
+ width: 940px;
+margin: 0 auto}
+
+form{
+ margin: 40px  
+}
+
+form label{
+  display:block;
+  font-size:20px;
+  margin:0 0 10px
+}
+
+form input{
+  display:block;
+  margin:0 0 20px;
+  padding:10px 25px;
+  width:50%
+}
+
+footer {
+text-align: center;
+background: url(" https://st4.depositphotos.com/2126555/19839/i/450/depositphotos_198394100-stock-photo-close-up-of-texture-fabric.jpg");
+padding: 40px 0;
+}
+
+.copyright {
+color: #FFFFFF;
+font-size: 13px;
+  margin: 20px 0 0}
